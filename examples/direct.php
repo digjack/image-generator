@@ -16,7 +16,7 @@ $generator = new ImageGenerator([
     'backgroundColorHex' => "#AFF",
 ]);
 
-// We'll do a multiline message here
+// We'll leave the text empty, and the dimensions will be shown
 $generator->makePlaceholderImage(
     ""
 );
